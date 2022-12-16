@@ -10,3 +10,4 @@ S'han corregit errates del llibre en els enunciats dels problemes:
 * 3.10
 * 4.3
 * 4.7
+* 4.8
