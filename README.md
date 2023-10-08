@@ -8,6 +8,7 @@ En aquest github trobareu algunes errates del llibre corregides i tots els enunc
 S'han corregit errates del llibre en els enunciats dels problemes:
 * 2.7
 * 2.10
+* 3.5
 * 3.10
 * 4.3
 * 4.7
